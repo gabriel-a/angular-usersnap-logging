@@ -1,0 +1,22 @@
+{
+  "name": "angular-usersnap-logging",
+  "homepage": "https://github.com/gabriel-a/angular-usersnap-logging",
+  "authors": [
+    "Gabriel Ajabahian gabriel@openoprogrammer.info"
+  ],
+  "description": "angular usersnap logging",
+  "main": "usersnap-logging.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "usersnap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
